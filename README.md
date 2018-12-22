@@ -1,1 +1,5 @@
-# omkar1
+#<stdio.h>
+#<conio.h>
+void main(){
+printf("hello world");
+}
